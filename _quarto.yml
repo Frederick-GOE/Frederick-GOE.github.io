@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Frederick Gathering of Eagles"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - board.qmd
+  margin-header: |
+    ![](/images/eagle.jpeg)
+
+format:
+  html:
+    theme:
+      light: cerulean
+      dark: cyborg
+    css: styles.css
+    toc: true
