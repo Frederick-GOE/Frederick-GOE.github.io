@@ -14,8 +14,6 @@ website:
 
 format:
   html:
-    theme:
-      light: cerulean
-      dark: cyborg
+    theme: cyborg
     css: styles.css
     toc: true
