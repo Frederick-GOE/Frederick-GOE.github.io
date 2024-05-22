@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - activities.qmd
       - board.qmd
   margin-header: |
     ![](/images/Frederick GOE.png)
