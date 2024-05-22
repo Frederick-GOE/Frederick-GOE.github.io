@@ -10,7 +10,7 @@ website:
         text: Home
       - board.qmd
   margin-header: |
-    ![](/images/eagle.jpeg)
+    ![](/images/Frederick GOE.png)
 
 format:
   html:
