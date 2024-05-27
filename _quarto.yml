@@ -11,7 +11,7 @@ website:
       - activities.qmd
       - board.qmd
   margin-header: |
-    ![](/images/Frederick GOE.png)
+    ![](/images/GOE Logo_Final.png)
 
 format:
   html:
