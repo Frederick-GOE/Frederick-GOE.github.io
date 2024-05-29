@@ -25,4 +25,4 @@ Ben Seibert -
 Kurt Yankaskas -
 Members
 
-For more information or to get in touch with the Board, email [president@frederickgoe.com](president@frederickgoe.com).
+For more information or to get in touch with the Board, email [president@frederickgoe.com](mailto:president@frederickgoe.com).
