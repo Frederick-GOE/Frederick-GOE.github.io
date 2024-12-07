@@ -2,27 +2,26 @@
 title: "Board"
 ---
 
-Sean Byrne -
-President
+### President
 
-Alan Ashley -
-Treasurer
+* Ben Seibert
 
-Jim Robbins -
-Secretary
+### Treasurer
 
-Dr. Fred Broadrup -
-President Emeritus
+* Kurt Yankaskas
 
-Rick Millward -
-Membership
+### Secretary
 
-LeMoyne Fletcher -
-Displays
+* Jim Robbins
 
-Jason Halmo -
-Ben Seibert -
-Kurt Yankaskas -
-Members
+### Board members
+
+* Alan Ashley
+* Dr. Fred Broadrup (President Emeritus)
+* Sean Byrne (President Emeritus)
+* LeMoyne Fletcher (Historian / Presentations)
+* Jason Halmo
+* Randy Johnson (Webmaster)
+* Rick Millward (Membership)
 
 For more information or to get in touch with the Board, email [president@frederickgoe.com](mailto:president@frederickgoe.com).
