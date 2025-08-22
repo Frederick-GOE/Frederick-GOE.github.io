@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: 'docs'
+  output-dir: 'docs-tmp'
 
 website:
   title: "Frederick Gathering of Eagles"
