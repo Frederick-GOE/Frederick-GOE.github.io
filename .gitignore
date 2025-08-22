@@ -3,4 +3,4 @@
 *.Rhistory
 
 /.quarto/
-docs_tmp/
+docs-tmp/
