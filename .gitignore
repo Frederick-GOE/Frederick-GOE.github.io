@@ -4,3 +4,6 @@
 
 /.quarto/
 docs-tmp/
+images/interviews/
+
+**/*.quarto_ipynb

@@ -16,7 +16,6 @@ title: "Board"
 
 ### Board members
 
-* Alan Ashley
 * Dr. Fred Broadrup (President Emeritus)
 * Sean Byrne (Past President)
 * LeMoyne Fletcher (Historian / Presentations)
